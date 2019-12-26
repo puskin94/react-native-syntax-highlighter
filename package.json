@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/conorhastings/react-native-syntax-highlighter#readme",
   "dependencies": {
-    "react-syntax-highlighter": "^6.0.4"
+    "react-syntax-highlighter": "https://github.com/puskin94/react-syntax-highlighter.git#05e6e8b4fb8ccc4c8f11d94c190835e6ce157d05"
   },
   "peerDependencies": {
-    "react-syntax-highlighter": "^6.0.4"
+    "react-syntax-highlighter": "https://github.com/puskin94/react-syntax-highlighter.git#05e6e8b4fb8ccc4c8f11d94c190835e6ce157d05"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
